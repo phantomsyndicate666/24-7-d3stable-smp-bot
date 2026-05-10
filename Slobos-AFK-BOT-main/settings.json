@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "D3stable.aternos.me:16885",
+    "ip": "D3stable.aternos.me",
     "port": 16885,
     "version": "1.21.1"
   },
